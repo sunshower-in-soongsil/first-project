@@ -1,3 +1,12 @@
+# 영화소개 웹페이지 - *노마드코더 무료강의*
+# React(create-react-app)
+
+기간 : 2학년 겨울방학
+
+[https://sunshower1127.github.io/first-project/](https://sunshower1127.github.io/first-project/) <- `github.io` 호스팅 중...
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
